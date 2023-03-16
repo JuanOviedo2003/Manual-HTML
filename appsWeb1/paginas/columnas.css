@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    width: 500px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(224, 206, 150);
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+#columnas{
+    column-count:4;
+    column-gap:20px;
+    column-rule:4px dotted gray;
+}

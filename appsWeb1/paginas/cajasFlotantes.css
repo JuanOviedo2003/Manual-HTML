@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    width: 500px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color:rgb(224, 206, 150);
+    text-align: center;
+}
+.Cajas{
+    height: 131px;
+    background-color: aquamarine;
+}
+
+.caja1{
+    width:395px;
+    float:left;
+    margin-right:15px;
+    background-color: red;
+    color: white;
+}
+.caja2{
+    width:300px;
+    float: right;
+    background-color: brown;
+    color: white;
+}
